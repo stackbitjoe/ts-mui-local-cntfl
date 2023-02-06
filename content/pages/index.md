@@ -46,10 +46,6 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'https://docs.stackbit.com/'
-        abstractReference:
-          refId: 11HEZYmefQ2u1d9X5Ki488
-          refSrcType: contentful
-          refProjectId: xues0r4skdzd
       - type: Card
         title: Second Card Title
         image:
