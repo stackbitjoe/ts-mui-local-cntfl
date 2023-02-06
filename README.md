@@ -51,6 +51,15 @@ This outputs your own Stackbit URL. Open this, register or sign in, and you will
 
 ![Next.js Dev + Stackbit Dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
 
+## Setup Contentful
+
+- Create an empty space in Contentful
+- Add a new content model named 'Abstract Card' with the id 'abstractCard'
+- Acquire Contentful API keys and update .env file
+
+![image](https://user-images.githubusercontent.com/102970577/217065080-ea26591e-3fd5-4569-ae9d-e4d13506f4f0.png)
+
+
 ## Next Steps
 
 Here are a few suggestions on what to do next if you're new to Stackbit:
